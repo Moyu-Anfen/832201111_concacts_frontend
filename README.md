@@ -8,12 +8,6 @@
 
 
 
-### 👀 展示
-
-![image-20241005164624861](C:\Users\Zeroanfeng\AppData\Roaming\Typora\typora-user-images\image-20241005164624861.png)
-
-
-
 ### ⚙️ 部署
 
 - **安装** [node.js](https://nodejs.org/zh-cn/) **环境**
